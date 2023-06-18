@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - THE ECCENTRIC ENGINEER</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on THE ECCENTRIC ENGINEER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2023 03:02:04 +0530</lastBuildDate>
+    
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exams again :(</title>
+      <link>http://example.org/posts/second_post/</link>
+      <pubDate>Sun, 18 Jun 2023 03:02:04 +0530</pubDate>
+      
+      <guid>http://example.org/posts/second_post/</guid>
+      <description>damn bro why</description>
+    </item><item>
+      <title>Finally pclub secy!!!!</title>
+      <link>http://example.org/posts/third_post/</link>
+      <pubDate>Sun, 18 Jun 2023 03:02:04 +0530</pubDate>
+      
+      <guid>http://example.org/posts/third_post/</guid>
+      <description>target achieved</description>
+    </item><item>
+      <title>Life at IITK</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Sun, 18 Jun 2023 03:00:19 +0530</pubDate>
+      
+      <guid>http://example.org/posts/first_post/</guid>
+      <description>first post</description>
+    </item>
+  </channel>
+</rss>
