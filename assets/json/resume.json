@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Hardik Jindal",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
@@ -24,13 +24,64 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "MIT Sloan School of Management",
+      "position": "Research Collaborator",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2025-08-01",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": [
+        "Relativity"
+      ],
+      "image": "assets/img/mitsloan.jpg"
+    },
+    {
+      "name": "MIT Media Labs",
+      "position": "Research Collaborator",
+      "url": "https://example.com",
+      "startDate": "2025-01-01",
+      "endDate": "2025-09-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ],
+      "image": "assets/img/mitmedia.jpg"
+    },
+    {
+      "name": "Oracle",
+      "position": "Project Intern",
+      "url": "https://example.com",
+      "startDate": "2025-05-01",
+      "endDate": "2025-07-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ],
+      "image": "assets/img/oracle.jpg"
+    },
+    {
+      "name": "Programming Club IITK",
+      "position": "Co-ordinator",
+      "url": "https://example.com",
+      "startDate": "2024-03-01",
+      "endDate": "2025-04-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ],
+      "image": "assets/img/pclub.jpg"
+    },
+    {
+      "name": "Google Summer Of Code",
+      "position": "Open Source Developer",
+      "url": "https://example.com",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ],
+      "image": "assets/img/gsoc.png"
     }
   ],
   "volunteer": [
@@ -42,7 +93,10 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
   "education": [
@@ -55,7 +109,9 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+        "Theory of Relativity"
+      ]
     }
   ],
   "awards": [
@@ -191,7 +247,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"

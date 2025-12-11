@@ -50,7 +50,6 @@ layout: default
       </div>
 
 
-
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
@@ -67,6 +66,11 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
+
+    <!-- Experience -->
+    <h2>Experience</h2>
+    {% include timeline.liquid %}
+    
     <!-- Selected papers -->
     <!-- Selected papers -->
     {% comment %}
