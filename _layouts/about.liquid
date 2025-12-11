@@ -40,10 +40,21 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Research Interests -->
+      <h2>
+        Research Interests
+      </h2>
+      <div style="margin-bottom: 2rem;">
+        Natural Language Processing, Language Model Optimization, Reinforcement Learning, Mechanistic interpretability,
+        Multi-Agent Systems, AI Alignment
+      </div>
+
+
+
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Recent News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -57,12 +68,15 @@ layout: default
     {% endif %}
 
     <!-- Selected papers -->
+    <!-- Selected papers -->
+    {% comment %}
     {% if page.selected_papers %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+    {% endcomment %}
 
     <!-- Social -->
     {% if page.social %}
