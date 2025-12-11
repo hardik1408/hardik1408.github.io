@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey, this is Hardik! Welcome to my website. I am currently pursuing a Bachelor of Technology in Electrical Engineering with minor in Machine Learning from the Indian Institute of Technology, Kanpur .
+Hey, this is Hardik! Welcome to my website. I am currently pursuing a Bachelor of Technology in Electrical Engineering with minor in Machine Learning from the Indian Institute of Technology, Kanpur.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am deeply interested in Natural Language Processing, Reinforcement Learning and its application in Language Models. I am currently working with [Prof. Sayak Ray Chowdhury](https://sites.google.com/view/sayakraychowdhury/home) on Vision Language Models (VLMs). I have previously worked with [Prof. Soumya Dutta](https://soumyadutta-cse.github.io/research/) on Autoendcoders and Diffusion Models.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Apart from academics, I love buidling stuff and I am quite active in the open source community, having contributions in various open source projects. I also enjoy music and football and I am a big fan of FC Barcelona.
+

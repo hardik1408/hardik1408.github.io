@@ -29,7 +29,7 @@
       "url": "https://example.com",
       "startDate": "2025-08-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Optimization and LLMs",
       "highlights": [
         "Relativity"
       ],
@@ -53,7 +53,7 @@
       "url": "https://example.com",
       "startDate": "2025-05-01",
       "endDate": "2025-07-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Explored Fuzzy Clustering Algorithm as an alternative for Kmeans algorithm for IVF Indexes, enhancing soft assignment",
       "highlights": [
         "Relativity"
       ],
@@ -61,7 +61,7 @@
     },
     {
       "name": "Programming Club IITK",
-      "position": "Co-ordinator",
+      "position": "Coordinator",
       "url": "https://example.com",
       "startDate": "2024-03-01",
       "endDate": "2025-04-01",
