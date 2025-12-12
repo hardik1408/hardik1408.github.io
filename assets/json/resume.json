@@ -41,7 +41,7 @@
       "url": "https://example.com",
       "startDate": "2025-01-01",
       "endDate": "2025-09-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Conducted simulations across Markovian and n-ary random walks to quantify gradient instability in long-horizon settings. Performed extensive experiments on discrete control tasks, multi-agent coordination and stochastic simulations",
       "highlights": [
         "Relativity"
       ],
@@ -65,7 +65,7 @@
       "url": "https://example.com",
       "startDate": "2024-03-01",
       "endDate": "2025-04-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Lead a two-tier team comprising of 25 secretaries to foster a culture of programming within the campus community",
       "highlights": [
         "Relativity"
       ],
@@ -77,7 +77,7 @@
       "url": "https://example.com",
       "startDate": "2024-05-01",
       "endDate": "2024-08-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Developed a RAG based RESTful API in Flask for retrieval of cybersecurity news from 100+ articles by leading news outlets",
       "highlights": [
         "Relativity"
       ],
